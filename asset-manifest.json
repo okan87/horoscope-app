@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/okan87/horoscope-app/static/css/main.65306184.css",
+    "main.js": "/okan87/horoscope-app/static/js/main.f2dedac5.js",
+    "static/media/logo.png": "/okan87/horoscope-app/static/media/logo.d6c42622bddf5a8e7575.png",
+    "index.html": "/okan87/horoscope-app/index.html",
+    "main.65306184.css.map": "/okan87/horoscope-app/static/css/main.65306184.css.map",
+    "main.f2dedac5.js.map": "/okan87/horoscope-app/static/js/main.f2dedac5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65306184.css",
+    "static/js/main.f2dedac5.js"
+  ]
+}
